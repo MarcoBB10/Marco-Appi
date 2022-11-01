@@ -1,0 +1,15 @@
+{
+  "name": "p01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "es-dev-server --app-index.html --node-resolve --watch --open"
+  },
+  "author": "Marco",
+  "license": "ISC",
+  "devDependencies": {
+    "es-dev-server": "^2.1.0"
+  }
+}
+
